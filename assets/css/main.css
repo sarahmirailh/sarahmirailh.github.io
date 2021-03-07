@@ -4328,3 +4328,11 @@
 			  margin-right: auto;
 			  width: 200px;
 		}
+
+		.mx-t{
+			margin-top: 8%;
+		}
+
+		.mx-b{
+			margin-bottom: 10%;
+		}
