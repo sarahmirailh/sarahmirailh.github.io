@@ -23,3 +23,10 @@ All images courtesy of Unsplash (https://unsplash.com).
 
 - laptop.jpg
 	<span>Photo by <a href="https://unsplash.com/@notsurewhyinamedmyselfthiss?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Photography Account</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+- livros.jpg
+	<span>Photo by <a href="https://unsplash.com/@itfeelslikefilm?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">🇸🇮 Janko Ferlič</a> on <a href="https://unsplash.com/s/photos/books?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+
+- exp.jpg
+	<span>Photo by <a href="https://unsplash.com/@sortino?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joshua Sortino</a> on <a href="https://unsplash.com/s/photos/road?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
